@@ -1,0 +1,26 @@
+{
+  "parent": "darts:bullseye",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.darts.hat_trick.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "darts:golden_dart"
+    },
+    "title": {
+      "translate": "advancements.darts.hat_trick.title"
+    }
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ]
+}

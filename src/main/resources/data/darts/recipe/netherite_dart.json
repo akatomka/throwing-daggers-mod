@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_upgrade_smithing_template",
+  "base": "darts:diamond_dart",
+  "addition": "#minecraft:netherite_tool_materials",
+  "result": {
+    "id": "darts:netherite_dart"
+  }
+}

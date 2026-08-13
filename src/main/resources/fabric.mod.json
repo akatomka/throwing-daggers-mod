@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "darts",
+	"version": "${version}",
+	"name": "Darts",
+	"description": "Adds throwable darts as a new tool-tier weapon, with custom enchantments.",
+	"authors": [
+		"tomas"
+	],
+	"contact": {
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/darts/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.tomas.darts.DartsMod"
+		],
+		"client": [
+			"com.tomas.darts.client.DartsModClient"
+		]
+	},
+	"mixins": [
+		"darts.mixins.json",
+		{
+			"config": "darts.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.8",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
