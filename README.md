@@ -38,7 +38,6 @@ All three only apply to throwing daggers (`#darts:darts`) and are enchanting-tab
 
 ## Advancements
 
-- **Throwing Daggers** — craft any throwing dagger.
 - **Bullseye** — hit an enemy with a thrown dagger.
 - **Hat Trick** *(challenge)* — kill a mob at full health using only 3 daggers in quick succession.
 - **Throwaway Diamonds** *(goal)* — craft a diamond throwing dagger.
@@ -52,7 +51,7 @@ All three only apply to throwing daggers (`#darts:darts`) and are enchanting-tab
 
 ## Installing
 
-Drop the built jar (`darts-<version>.jar`) into your `mods/` folder alongside [Fabric API](https://modrinth.com/mod/fabric-api).
+Grab the jar from the [Releases page](https://github.com/akatomka/throwing-daggers-mod/releases) and drop it into your `mods/` folder alongside [Fabric API](https://modrinth.com/mod/fabric-api).
 
 ## Building from source
 
