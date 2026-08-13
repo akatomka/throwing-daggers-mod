@@ -1,0 +1,22 @@
+{
+  "item.darts.wooden_dart": "Wooden Throwing Daggers",
+  "item.darts.stone_dart": "Stone Throwing Daggers",
+  "item.darts.copper_dart": "Copper Throwing Daggers",
+  "item.darts.iron_dart": "Iron Throwing Daggers",
+  "item.darts.golden_dart": "Golden Throwing Daggers",
+  "item.darts.diamond_dart": "Diamond Throwing Daggers",
+  "item.darts.netherite_dart": "Netherite Throwing Daggers",
+  "enchantment.darts.toxic": "Toxic",
+  "enchantment.darts.lag": "Lag",
+  "enchantment.darts.rend": "Rend",
+  "death.attack.darts.dart": "%1$s was skewered by %2$s",
+  "death.attack.darts.dart.item": "%1$s was skewered by %2$s using %3$s",
+  "advancements.darts.root.title": "Throwing Daggers",
+  "advancements.darts.root.description": "Craft a throwing dagger",
+  "advancements.darts.bullseye.title": "Bullseye",
+  "advancements.darts.bullseye.description": "Hit an enemy with a thrown dagger",
+  "advancements.darts.hat_trick.title": "Hat Trick",
+  "advancements.darts.hat_trick.description": "Kill a mob at full health using only 3 daggers in quick succession",
+  "advancements.darts.throwaway_diamonds.title": "Throwaway Diamonds",
+  "advancements.darts.throwaway_diamonds.description": "Craft a diamond throwing dagger"
+}

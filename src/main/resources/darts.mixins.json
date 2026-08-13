@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.tomas.darts.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"DartsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

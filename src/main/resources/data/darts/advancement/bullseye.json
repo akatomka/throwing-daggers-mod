@@ -1,0 +1,34 @@
+{
+  "parent": "darts:root",
+  "criteria": {
+    "hit_with_dagger": {
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "darts:dart"
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:player_hurt_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.darts.bullseye.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "darts:stone_dart"
+    },
+    "title": {
+      "translate": "advancements.darts.bullseye.title"
+    }
+  },
+  "requirements": [
+    [
+      "hit_with_dagger"
+    ]
+  ]
+}

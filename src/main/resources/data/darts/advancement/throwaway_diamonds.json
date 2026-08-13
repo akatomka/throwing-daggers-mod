@@ -1,0 +1,33 @@
+{
+  "parent": "darts:root",
+  "criteria": {
+    "crafted_diamond_dart": {
+      "conditions": {
+        "items": [
+          {
+            "items": "darts:diamond_dart"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.darts.throwaway_diamonds.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "darts:diamond_dart"
+    },
+    "title": {
+      "translate": "advancements.darts.throwaway_diamonds.title"
+    }
+  },
+  "requirements": [
+    [
+      "crafted_diamond_dart"
+    ]
+  ]
+}

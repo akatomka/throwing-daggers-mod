@@ -1,0 +1,11 @@
+{
+  "values": [
+    "darts:wooden_dart",
+    "darts:stone_dart",
+    "darts:copper_dart",
+    "darts:iron_dart",
+    "darts:golden_dart",
+    "darts:diamond_dart",
+    "darts:netherite_dart"
+  ]
+}
