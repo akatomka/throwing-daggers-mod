@@ -11,8 +11,6 @@
   "enchantment.darts.rend": "Rend",
   "death.attack.darts.dart": "%1$s was skewered by %2$s",
   "death.attack.darts.dart.item": "%1$s was skewered by %2$s using %3$s",
-  "advancements.darts.root.title": "Throwing Daggers",
-  "advancements.darts.root.description": "Craft a throwing dagger",
   "advancements.darts.bullseye.title": "Bullseye",
   "advancements.darts.bullseye.description": "Hit an enemy with a thrown dagger",
   "advancements.darts.hat_trick.title": "Hat Trick",

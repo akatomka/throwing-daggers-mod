@@ -1,5 +1,5 @@
 {
-  "parent": "darts:root",
+  "parent": "darts:bullseye",
   "criteria": {
     "crafted_diamond_dart": {
       "conditions": {

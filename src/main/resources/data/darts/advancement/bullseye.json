@@ -1,12 +1,11 @@
 {
-  "parent": "darts:root",
   "criteria": {
     "hit_with_dagger": {
       "conditions": {
         "damage": {
           "type": {
             "direct_entity": {
-              "type": "darts:dart"
+              "entity_type": "darts:dart"
             }
           }
         }
@@ -15,6 +14,7 @@
     }
   },
   "display": {
+    "background": "minecraft:gui/advancements/backgrounds/adventure",
     "description": {
       "translate": "advancements.darts.bullseye.description"
     },
